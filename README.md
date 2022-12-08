@@ -10,5 +10,3 @@ Documentation of the processes and resource materials will be maintained to crea
 [ARDUINO](/ARDUINO)\
 [PROCESSING/P5](/PROCESSING)\
 [AR](/AR)\
-[VR](/VR)\
-[3D ASSET MANAGEMENT](/3D_ASSET_MGMT)
